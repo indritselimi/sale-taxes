@@ -16,7 +16,7 @@ import java.math.BigDecimal;
 import java.util.Set;
 
 /**
- * No documentation yet for this class.
+ * Read source code. 
  * 
  * @author Indrit.Selimi indrit.selimi@rcs.it
  */
