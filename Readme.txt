@@ -6,7 +6,6 @@ Receipt
 Sale Tax Rules
 Rounding Price Rules
 
-
 Explanation:
 I have choose to create a "tax aware" product. To handle tax calculation I have choose to inject tax rules on my products. 
 My first idea was to choose which tax rule to inject in "wiring" time (in order to move IF-s into factory...) but it seemed that 
