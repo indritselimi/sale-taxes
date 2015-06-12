@@ -1,3 +1,10 @@
+To run the code something like this should be sufficient:
+
+-- git clone https://github.com/indritselimi/sale-taxes.git)
+-- install maven (on os x or linux should already be there, maybe)
+-- cd .../sale-taxes
+-- mvn clean test
+
 Domain terms:
 Product
 Product Categories
@@ -16,4 +23,5 @@ if needed in the future the concept can be elaborated more on "TaxContext" or si
 Your feedback is highly appreciated because I can improve my self.     
 
 Thank you very much.
+
 
